@@ -1,0 +1,5 @@
+employee_file = open("employees.txt","a")
+employee_file.write("\n")
+employee_file.write("Deen - Software Developer")
+employee_file.write(input("Enter info:"))
+employee_file.close()

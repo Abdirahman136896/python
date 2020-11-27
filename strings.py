@@ -1,0 +1,25 @@
+phrase = "Giraffe Academy"
+print("Giraffe\n\"Academy\"")
+print(phrase + " is cool")
+print(phrase.lower())
+print(phrase.upper())
+print(phrase.islower())
+print(phrase.isupper())
+print(phrase.upper().isupper())
+print(phrase.lower().islower())
+print(len(phrase))
+print(phrase[0]+phrase[1]+phrase[2]+phrase[3]+phrase[4]+phrase[5]+phrase[6])
+print(phrase[0:7])
+print(phrase[0:])
+print(phrase[:7])
+print(len(phrase))
+print(phrase[8:17])
+print(phrase.index("G"))
+print(phrase.replace("Giraffe","Elephant"))
+tennavins = str(10 * "navin")
+print(tennavins)
+print('c:\docs\navin')
+#row string
+print(r'c:\docs\navin')
+
+

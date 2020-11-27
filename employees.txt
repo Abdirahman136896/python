@@ -1,0 +1,9 @@
+Jim -  Salesman
+Dwight - Salesman
+Pam - Receptionist
+Michael - Manager
+Mike - Assistant Manager
+Nelson - Intern
+Toby - Human Resources
+Abdul - Project Coordinator
+Deen - Software Developer
